@@ -1,0 +1,3 @@
+C:/Users/emanuele/CLionProjects/3B_ITT_Esercizio_00_IO/cmake-build-debug/CMakeFiles/3B_ITT_Esercizio_00_IO.dir
+C:/Users/emanuele/CLionProjects/3B_ITT_Esercizio_00_IO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emanuele/CLionProjects/3B_ITT_Esercizio_00_IO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
